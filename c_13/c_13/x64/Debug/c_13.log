@@ -1,0 +1,3 @@
+﻿  mini_project.cpp
+C:\Users\kungm\Desktop\대학교\c_express\c_13\c_13\mini_project.cpp(9,107): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  c_13.vcxproj -> C:\Users\kungm\Desktop\대학교\c_express\c_13\x64\Debug\c_13.exe
